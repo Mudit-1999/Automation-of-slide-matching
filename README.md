@@ -7,7 +7,7 @@ This **README** file contains :
  2. Requirements
 
 
-## How to Runn Script
+## How to Run Script
 ```
 python3 code.py <path/to/slides/directory> <path/to/frames/directory>
 ```
